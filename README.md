@@ -61,5 +61,3 @@ Navigate media or web browsers via gestures.
 
 Prototype for gesture-based accessibility systems.
 
-📄 License
-This project is open source and available under the MIT License.
